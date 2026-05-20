@@ -2,7 +2,7 @@ import { useState } from "react";
 import axios from "axios";
 import "./App.css";
 
-const API_URL = "https://video-intelligence-backend.onrender.com";
+const API_URL = "https://video-intelligence-backend-ocu0.onrender.com";
 
 function App() {
   const [companyName, setCompanyName] = useState("");
